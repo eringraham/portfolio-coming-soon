@@ -17,3 +17,24 @@ html {
     box-sizing: inherit;
 }
 
+img {
+    margin: 0 auto;
+}
+
+.img-flex {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+}
+
+.icons {
+    text-align: center;
+}
+
+p {
+    color: gray;
+}

@@ -1,5 +1,5 @@
 html {
-  font: normal 100%/1.5 Georgia,serif;
+  font: normal 100%/1.5 Arial,sans-serif;
 }
 
 @media only screen and (min-width: 60em) {
@@ -24,6 +24,11 @@ html {
     font-size: 130%;
   }
 
+}
+
+.title {
+    font-weight: 200;
+    color: gray;
 }
 
 h1, h2, h3, h4, h5, h6,
